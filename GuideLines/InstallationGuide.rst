@@ -8,8 +8,8 @@ After installing, make sure you have the **mamba** command available in your she
 
 .. code-block:: bash
 
-   \# Create a new environment for SIMONA:
+   # Create a new environment for SIMONA:
    mamba create --name=simona simona_binary -c https://mamba.nanomatch-distribution.de/mamba-repo -c conda-forge
-   \# Activate the environment to see if it exists
+   # Activate the environment to see if it exists
    conda activate simona
 
